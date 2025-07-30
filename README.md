@@ -86,7 +86,7 @@ Account ID Filter
 ![image](https://github.com/RoshniRanaDS/Power_Bi_Dashboard/assets/161755928/eb7799e6-7d34-452a-ab9b-85d903245cfd)
 
 
-# screen 06. Categorical Account type Analysis
+# Screen 06. Categorical Account type Analysis
 ![image](https://github.com/RoshniRanaDS/Power_Bi_Dashboard/assets/161755928/0ada995f-ce55-4576-92de-037446ffd6c6)
 #
 ![image](https://github.com/RoshniRanaDS/Power_Bi_Dashboard/assets/161755928/a1cb7e1f-0565-4939-9d4c-ca770a181f48)
