@@ -1,9 +1,6 @@
 # Fraud Detection Power-BI Dashboard
 ![Recording 2024-08-28 181228 (1)](https://github.com/user-attachments/assets/bf1a25f9-dab5-4e8c-8001-03b880248fcd)
 
-### Published Dashboard Link:  
-https://app.powerbi.com/view?r=eyJrIjoiZGI1ODBjZTctMzBkMC00ZTViLWI0ZTMtNjdjNjk5ZTQ2Y2Y5IiwidCI6IjU2Y2I4MTQ3LTZlNTktNDhhZC05MWI4LTdmZTdlYmU5Y2VkOCJ9&pageName=ReportSection
-#
 # Dashboard naviganition Demo: (click on video screen)
 https://github.com/user-attachments/assets/26f84925-0c8c-4118-a258-46f13e331088 
 
